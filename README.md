@@ -5,6 +5,6 @@ ephys_analysis automates data extraction of intrinsic properties such as input r
 
 Vis_f-I makes a floating plot of sweep traces for your ABF file. 
 
-Resources
+Resources:
 
 Harden SW. pyabf: Python library for reading files in Axon Binary Format (ABF) [Internet]. 2022 [cited 2024 Apr 4]. Available from: http://swharden.com/pyabf
