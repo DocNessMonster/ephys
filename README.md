@@ -1,7 +1,7 @@
 # ephys
 Automated patch-clamp electrophysiology analysis and visulaizations for current clamp recordings.
 
-ephys_analysis automates data extraction of intrinsic properties such as input resistance and rheobase for multiple files at one time. Just put all your files into a folder and hit go on the program. 
+ExciteNess automates data extraction of intrinsic properties such as input resistance and rheobase for multiple files at one time. Just put all your files into a folder and hit go on the program. 
 
 Vis_f-I makes a floating plot of sweep traces for your ABF file. 
 
